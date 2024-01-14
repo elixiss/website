@@ -1,0 +1,71 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 20px;
+    background: url('https://media1.tenor.com/images/bf4a2b68c89fb08b73a6e2bee26adaec/tenor.gif?itemid=4989572') fixed;
+    background-size: cover;
+    background-attachment: fixed;
+    background-size: 100% 650px;
+}
+
+
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 8px;
+    color: rgb(0, 0, 0);
+}
+
+section {
+    margin: 20px 0;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    font-weight: bold;
+    border: 1px solid black;
+}
+
+h2 {
+    color: black;
+}
+
+p {
+    line-height: 1.6;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ol li {
+    margin-bottom: 8px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.icon {
+
+    position: absolute;
+    height: 110px;
+    width: 170px;
+margin-left: 400px;
+}
+
+video {
+
+    display: block;
+    margin: auto;
+    border-radius: 8px;
+    border: solid;
+}
